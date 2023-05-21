@@ -1,4 +1,4 @@
-#User view in grid and fetching from api
+# User view in grid and fetching from api
 
 # Getting Started with Create React App
 
